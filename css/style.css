@@ -1,9 +1,14 @@
 header {
     background-color: aqua;
+    padding-top: 2rem;
 }
 
 nav {
     background-color: blue;
+}
+
+nav p {
+    text-align: center;
 }
 
 main {
